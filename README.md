@@ -1,4 +1,4 @@
-# chat-android (alpha)
+# chat (alpha)
 Este proyecto depende del proyecto (https://github.com/RicardoValladares/chat), con este proyecto se pretende usar la interfaz grafica de android para disminuir el consumo de recursos que se tiene con la interfaz web. 
 
 
